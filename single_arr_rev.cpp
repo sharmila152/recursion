@@ -1,4 +1,5 @@
 #include<iostream>
+#include<bits/stdc++.h
 using namespace std;
 void single_arr_rev(int i,int n,int a[])
 {
